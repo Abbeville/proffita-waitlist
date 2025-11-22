@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   title: "Proffita - Join the Waitlist",
   description:
     "Structured, reward-based contests connecting brands and creators. Get discovered and earn with verified payouts.",
-  generator: "v0.app",
+  generator: "",
   icons: {
     icon: [
       {
